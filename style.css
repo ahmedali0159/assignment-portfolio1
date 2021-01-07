@@ -1,7 +1,6 @@
 body {
     font-family: 'Work Sans', sans-serif;
     margin: 0;
-
 }
 .nav-bar {
     width: 40%;
@@ -76,7 +75,6 @@ h3 {
 }
 .work-color {
     color: #006266;
-
 }
 .latest-color {
     color: #ff3f34;
@@ -100,7 +98,6 @@ h3 {
     font-size: 18px;
     float: left;
     margin: 5%;
-    
 }
 .jym-box p {
     display: inline;
@@ -126,7 +123,6 @@ h3 {
     float: right;
     padding: 2px 15px;
 }
-
 .studio img {
     flex-basis: 50%;
     width: 30%;
@@ -144,7 +140,6 @@ h3 {
     font-size: 20px;
     text-align: center;
     margin: 30px;
-    
 }
 .social-net {
     text-align: center;
