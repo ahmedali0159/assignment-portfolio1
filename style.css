@@ -109,23 +109,24 @@ h3 {
 .big-button {
     background-image: url("images/shapes/Group_33094_1.png");
     background-repeat: no-repeat;
-    background-size: 1000px 200px;
-    padding: 55px;
+    background-size: 800px 250px;
+    padding: 50px;
     background-position: center;
 }
-.big-button h3 {
-    text-align: left;
-    margin-left:160px;
+.big-button ul li {
+    display: inline-block;
+}
+.big-button ul li h3 {
+    color: #fff;
+    margin-left: 250px;
     font-size: 35px;
-    margin-bottom: 20px;
-    color: white;
 }
-.chat  {
-    margin-left: 700px;
-    text-align: center;
-    bottom: 80px;
-    
+.big-button ul li a {
+    margin-left: 300px;
+    float: right;
+    padding: 2px 15px;
 }
+
 .studio img {
     flex-basis: 50%;
     width: 30%;
@@ -164,7 +165,6 @@ h3 {
 .social-net h5 {
     font-size: 20px;
     color: #485460;
-
 }
 
 
